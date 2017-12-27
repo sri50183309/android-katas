@@ -1,8 +1,12 @@
 # android-katas
 
+## Commit 3 Details
+1. Added logger methods in all the life cycle methods
+2. Converted the buttons to ImageButtons
+
 ## Commit 2 Details
 1. Implemented MVC Pattern, created a model containing all the questions
-2. Addedn Prev/Next buttons
+2. Added Prev/Next buttons
 
 
 ## Commit 1 Details
