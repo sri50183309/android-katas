@@ -1,4 +1,7 @@
 # android-katas
+## 5
+1. Analyse code using Analyze -> Inspect Code
+
 ## 4
 1. Implemented the disable logic for buttons
 2. Updated saveInstance method related logic , to fix the rotate issue
