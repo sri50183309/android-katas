@@ -1,4 +1,8 @@
 # android-katas
+## 6
+1. Added second activity
+2. Called child from Parent and understanding of datas transmission between 2 activities
+
 ## 5
 1. Analyse code using Analyze -> Inspect Code
 
